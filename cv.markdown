@@ -30,12 +30,16 @@ order: 2
 ## Experience
 
 [**Bolt**](https://bolt.com) (payments startup), San Francisco, 4/18 - 7/19
+- First Business Operations team member, employee #21
 
 [**The Boston Consulting Group**](https://bcg.com), San Francisco, 6/15 - 9/15 and 1/17 - 4/18
+- Selected casework: impact measurement for SF-based nonprofit foundation, product launch for Fortune 50 technology company, M&A strategy for Fortune 500 apparel retailer
 
 [**White House Council of Economic Advisers**](https://obamawhitehouse.archives.gov/sites/default/files/docs/ERP_2016_Book_Complete%20JA.pdf), Washington, D.C., 9/16 - 12/16
+- Contributions include [AI and the Economy](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) and [TPP issue brief](https://obamawhitehouse.archives.gov/sites/default/files/page/files/201611_cost_of_tpp_delay_issue_brief.pdf)
 
 [**Google**](https://chromeenterprise.google/os/), Mountain View, 6/16 - 9/16
+- Associate Product Management (APM) intern, ChromeOS
 
 ## Teaching
 
