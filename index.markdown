@@ -8,7 +8,7 @@ permalink: /
 order: 1
 ---
 
-I'm a PhD Candidate in Business Economics at Harvard. My research interests are in finance, macroeconomics, productivity and innovation. 
+I'm a PhD Candidate in Business Economics at Harvard. My research relates to productivity, innovation, and the behavior of firms.
 
 Previously, I worked at [Bolt](https://bolt.com), a payments startup in San Francisco, and the [Boston Consulting Group](https://bcg.com). Other stints include [Google](https://chromeenterprise.google/os/) and the [Council of Economic Advisers](https://obamawhitehouse.archives.gov/sites/default/files/docs/ERP_2016_Book_Complete%20JA.pdf).
 
