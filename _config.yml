@@ -21,9 +21,11 @@
 title: Kunal Sangani
 email: 8ksangani@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ""
+  Kunal Sangani is a PhD candidate in Business Economics at Harvard Business School,
+  focused on finance and macroeconomics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kunalsangani.com" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: kunalsangani
 twitter_username: ksangani8
 github_username:  kunalsangani
 

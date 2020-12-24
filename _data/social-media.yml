@@ -1,0 +1,23 @@
+email:
+  id: '8ksangani@gmail.com'
+  href: 'mailto:8ksangani@gmail.com'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+linkedin:
+  id: 'kunalsangani'
+  href: 'https://www.linkedin.com/in/kunalsangani/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'ksangani8'
+  href: 'https://twitter.com/ksangani8'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'kunalsangani'
+  href: 'https://github.com/kunalsangani'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
