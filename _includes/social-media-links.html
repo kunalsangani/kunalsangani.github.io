@@ -4,7 +4,8 @@
 	{% for entry in sm %}
 		{% assign key = entry | first %}
 		{% if sm[key].id %}
-			<a href="{{ sm[key].href }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+			{% assign link = "/assets/minima-social-icons.svg#" | append: key  %}
+			<a href="{{ sm[key].href }}" title="{{ sm[key].title }}"><svg class="svg-icon grey"><use xlink:href="{{ link | relative_url }}"></a>
 		{% endif %}
 	{% endfor %}
 </div>
