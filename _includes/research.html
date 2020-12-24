@@ -1,0 +1,40 @@
+{% if site.data.research %}
+<div id="research" class="post-content">
+	{% assign res = site.data.research %}
+	{% for section in res %}
+		<h2>{{ section.section_name }}</h2>
+		{% for entry in section.items %}
+			{% if entry.title %}
+				<div class="post-content research-project">
+					<strong>{{ entry.title }}</strong><br>
+					{% if entry.coauthors %}
+						with {{ entry.coauthors }}<br>
+					{% endif %}
+					{% if entry.links %}
+						{% for link in entry.links %}
+							<a href="{{link.href}}">[{{link.name}}]</a> 
+						{% endfor %}
+						<br>
+					{% endif %}
+					{% if entry.abstract %}
+						<a class="collapse" value=0 onclick="collapsible(event)">+ More</a>
+						<p hidden=True>{{ entry.abstract }}</p>
+					{% endif %}
+				</div>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+	var collapsible = function(event){
+		$(event.target).val(1 - $(event.target).val())
+		if($(event.target).val() == 1) {
+			event.target.innerHTML = '- Less'
+		} else {
+			event.target.innerHTML = '+ More'
+		}
+		$(event.target).next().slideToggle()
+	}
+</script>
+{% endif %}

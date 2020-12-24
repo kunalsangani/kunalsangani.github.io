@@ -1,0 +1,89 @@
+- working-papers:
+  section_name: Academic Papers
+  items:
+    - herding:
+      title: Venture-Backed Successes and Entrepreneur Herding
+      abstract: >-
+        How does the success of an existing startup influence the 
+        business ideas that aspiring entrepreneurs pursue? Do 
+        venture-backed successes spawn other "copycat" companies, 
+        or are entrepreneurs discouraged from entering markets where 
+        they will be forced to confront a well-funded competitor? 
+        I use ProductHunt, an online platform where entrepreneurs 
+        share early product and business ideas, to isolate how the 
+        ideas pursued by entrepreneurs change in the aftermath of large 
+        funding rounds and acquisitions. Following the acquisition of 
+        venture-backed companies, I find a significant uptick in 
+        ProductHunt posts similar to the acquired company: the average 
+        post 90 days after the acquisition announcement is 40-70% more 
+        similar to the acquired company than posts preceding the 
+        acquisition. A similar (though more modest) herding effect 
+        follows the announcement of a company's first funding round 
+        over $100M. This herding behavior suggests that aspiring 
+        entrepreneurs place more weight on the *market size signal* 
+        from an acquisition or funding round relative to the 
+        *competitor share signal*. Entrepreneurs' responses to 
+        news are potentially inefficient: while companies posted in the 
+        90 days after an acquisition announcement have similar short-term 
+        outcomes to those posted in the 90 days prior, companies posted 
+        following the announcement go on to receive less press coverage, 
+        funding, and estimated revenue.
+
+    - honors:
+      title: A Model of Firm Formality and Tax Evasion
+      links:
+        - paper:
+          name: Full Text
+          href: https://www.semanticscholar.org/paper/A-Model-of-Firm-Formality-and-Tax-Evasion-Sangani/1150344369c11d4d02be9ad0a1b9e96d2ced56b0
+      abstract: >-
+        Rampant informality in developing economies proves to be a 
+        major obstacle to public revenue collection, limiting investment 
+        in crucial public infrastructure. The model presented in this 
+        paper sheds light on inter-firm mechanisms that motivate firms 
+        to either transact formally or transact informally and evade 
+        taxes. The formulation allows us to predict comparative statics 
+        on a variety of parameters, including the effective tax rate, 
+        the likelihood of audit, the penalties levered against firms 
+        caught transacting informally, and the distribution of firm sizes 
+        in the economy. Empirical support for each of these predictions 
+        is discussed. In particular, the model provides theoretical 
+        underpinnings for predicting the effect of multinational entry and 
+        trade liberalization on the size of the informal sector—two 
+        questions which have hitherto been largely neglected in the 
+        literature.
+
+- other-work:
+  section_name: Other Work
+  items:
+    - impact:
+      title: 'Impact Investing in Developing Countries: Legal Institutions and Work-Arounds'
+      coauthors: Paul Brest, Shereen Griffith, Damira Khatam, Demoni Newman, Reirui Ri, Alessandra Santiago, Mengyi Xu, and Lucie Zikova
+      links:
+        - paper:
+          name: Full Text
+          href: https://www-cdn.law.stanford.edu/wp-content/uploads/2016/05/Impact-Investing-In-the-Absence-of-Credible-Legal-Institutions-15-16-Final-Report.pdf
+      abstract: >-
+        Impact investing often takes place in developing or frontier 
+        markets, and, as a result, impact investors will likely 
+        encounter problems unique to investing in countries where 
+        legal institutions are weak, ineffective, or entirely absent. 
+        The absence of credible legal institutions—and hence the lack 
+        of credible penalties for misbehavior—exposes the impact 
+        investor to a wider berth of actions from counterparties, 
+        as well as political and market uncertainties often present 
+        in these settings. This paper discusses the various risks and 
+        describes mitigation techniques. 
+
+    - cs229:
+      title: Neighborhood and Price Prediction for San Francisco Airbnb Listings
+      coauthors: Emily Tang 
+      links:
+        - paper:
+          name: Full Text
+          href: http://cs229.stanford.edu/proj2015/236_report.pdf
+      abstract:
+        We train models for neighborhood and price prediction using 
+        language and features from Airbnb postings provided by 
+        Inside Airbnb. We find that our model successfully predicts 
+        neighborhoods and prices beyond a classification baseline. 
+
