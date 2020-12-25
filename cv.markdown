@@ -30,7 +30,7 @@ order: 2
 ## Experience
 
 [**Bolt**](https://bolt.com) (payments startup), San Francisco, 4/18 - 7/19
-- First Business Operations team member, employee #21
+- First Business Operations team member, as team grew from 20 to 150+
 
 [**The Boston Consulting Group**](https://bcg.com), San Francisco, 6/15 - 9/15 and 1/17 - 4/18
 - Selected casework: impact measurement for SF-based nonprofit foundation, product launch for Fortune 50 technology company, M&A strategy for Fortune 500 apparel retailer
