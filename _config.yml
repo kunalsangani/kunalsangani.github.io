@@ -30,6 +30,7 @@ url: "https://kunalsangani.com" # the base hostname & protocol for your site, e.
 linkedin_username: kunalsangani
 twitter_username: ksangani8
 github_username:  kunalsangani
+google_analytics: G-7YZEDL3WJX
 
 # Build settings
 theme: minima
