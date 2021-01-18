@@ -24,6 +24,7 @@ order: 2
 - [James W. Lyons Award for Service](https://news.stanford.edu/thedish/2016/06/01/students-organizations-advisers-recognized-for-service-activities/) (awarded to 4 students by Vice Provost)
 - [Firestone Medal for Excellence in Undergraduate Research](https://news.stanford.edu/2016/07/15/stanford-seniors-thesis-projects-garner-university-medals/)
 - [Levinthal Recipient](https://creativewriting.stanford.edu/undergraduate/resources/levinthal-tutorials)
+<!--- [Urmy/Hardy Poetry Prize](https://news.stanford.edu/thedish/2016/06/08/stanford-students-win-creative-writing-prizes/) (second place)-->
 - Junior Phi Beta Kappa
 - Honors thesis: "A Model of Firm Formality and Tax Evasion," advised by Matthew Jackson and Michael Best
 

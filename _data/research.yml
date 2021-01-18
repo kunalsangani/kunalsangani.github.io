@@ -1,6 +1,35 @@
 - working-papers:
   section_name: Academic Papers
   items:
+    - supply_side:
+      title: The Supply-Side Effects of Monetary Policy
+      coauthors: David Rezza Baqaee and Emmanuel Farhi
+      links:
+        - paper:
+          name: Full Text
+          href: https://www.nber.org/papers/w28345
+      abstract: >-
+        We propose a supply-side channel for the transmission of monetary policy. 
+        We study an economy with heterogeneous firms, sticky prices, and 
+        endogenous markups. We show that if, as is consistent with the 
+        empirical evidence, bigger firms have higher markups and lower 
+        pass-throughs than smaller firms, then a monetary easing endogenously 
+        increases aggregate TFP and improves allocative efficiency. This 
+        endogenous positive “supply shock” amplifies the effects of the 
+        positive “demand shock” on output and employment. The result is a 
+        flattening of the Phillips curve. This effect is distinct from another 
+        mechanism discussed at length in the real rigidities literature: a 
+        monetary easing leads to a reduction in desired markups because of 
+        strategic complementarities in pricing. We calibrate the model to 
+        match firm-level pass-throughs and find that the misallocation channel 
+        of monetary policy is quantitatively important, flattening the 
+        Phillips curve by about 70% compared to a model with no supply-side 
+        effects. We derive a tractable four-equation dynamic model and show 
+        that monetary easing generates a procyclical hump-shaped response in 
+        aggregate TFP and countercyclical dispersion in firm-level TFPR. 
+        The improvements in allocative efficiency amplify both the impact and 
+        persistence of interest rate shocks on output.
+
     - herding:
       title: Venture-Backed Successes and Entrepreneur Herding
       abstract: >-
@@ -34,7 +63,7 @@
       links:
         - paper:
           name: Full Text
-          href: https://www.semanticscholar.org/paper/A-Model-of-Firm-Formality-and-Tax-Evasion-Sangani/1150344369c11d4d02be9ad0a1b9e96d2ced56b0
+          href: https://purl.stanford.edu/cp747fr3982
       abstract: >-
         Rampant informality in developing economies proves to be a 
         major obstacle to public revenue collection, limiting investment 
