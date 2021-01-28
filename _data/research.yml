@@ -8,6 +8,9 @@
         - paper:
           name: Full Text
           href: https://www.nber.org/papers/w28345
+        - voxeu:
+          name: VoxEU Summary
+          href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
       abstract: >-
         We propose a supply-side channel for the transmission of monetary policy. 
         We study an economy with heterogeneous firms, sticky prices, and 
