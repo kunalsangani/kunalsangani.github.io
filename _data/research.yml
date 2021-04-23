@@ -12,26 +12,22 @@
           name: VoxEU Summary
           href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
       abstract: >-
-        We propose a supply-side channel for the transmission of monetary policy. 
-        We study an economy with heterogeneous firms, sticky prices, and 
-        endogenous markups. We show that if, as is consistent with the 
-        empirical evidence, bigger firms have higher markups and lower 
-        pass-throughs than smaller firms, then a monetary easing endogenously 
-        increases aggregate TFP and improves allocative efficiency. This 
-        endogenous positive “supply shock” amplifies the effects of the 
-        positive “demand shock” on output and employment. The result is a 
-        flattening of the Phillips curve. This effect is distinct from another 
-        mechanism discussed at length in the real rigidities literature: a 
-        monetary easing leads to a reduction in desired markups because of 
-        strategic complementarities in pricing. We calibrate the model to 
-        match firm-level pass-throughs and find that the misallocation channel 
-        of monetary policy is quantitatively important, flattening the 
-        Phillips curve by about 70% compared to a model with no supply-side 
-        effects. We derive a tractable four-equation dynamic model and show 
-        that monetary easing generates a procyclical hump-shaped response in 
-        aggregate TFP and countercyclical dispersion in firm-level TFPR. 
-        The improvements in allocative efficiency amplify both the impact and 
-        persistence of interest rate shocks on output.
+        We propose a supply-side channel for the transmission of monetary policy. We 
+        show that in an economy with heterogeneous firms and endogenous markups, monetary shocks 
+        have first-order effects on aggregate TFP. If high-markup firms have lower
+        pass-throughs than low-markup firms, as is consistent with the empirical evidence,
+        then a monetary easing generates an endogenous positive “supply shock” that amplifies the 
+        positive “demand shock” on output. The result is a flattening of the Phillips
+        curve. This effect is distinct from another mechanism discussed at length in the real
+        rigidities literature: a monetary easing leads to a reduction in desired markups because 
+        of strategic complementarities in pricing. We derive a tractable four-equation dynamic model, 
+        disciplined by four sufficient statistics from the firm distribution, and use it to show that 
+        a monetary easing generates a procyclical hump-shaped response
+        in aggregate TFP and countercyclical dispersion in firm-level TFPR. A calibration using 
+        firm-level pass-throughs suggests that the supply-side channel is quantitatively as
+        important as real rigidities, and amplifies both the impact and persistence of monetary shocks. 
+        Moreover, this channel becomes stronger, and the Phillips curve becomes
+        flatter, with increases in industrial concentration.
 
     - herding:
       title: Venture-Backed Successes and Entrepreneur Herding
