@@ -1,6 +1,36 @@
 - working-papers:
   section_name: Academic Papers
   items:
+    - darwinian:
+      title: The Darwinian Returns to Scale
+      coauthors: David Rezza Baqaee and Emmanuel Farhi
+      links:
+        - paper:
+          name: Full Text
+          href: https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fr3gwifq1oytevok%2FDarwinian_live.pdf%3Fraw%3D1&sa=D&sntz=1&usg=AFQjCNEpLW2BC9B8j2PBM7-0ahfXD6jQlw
+      abstract: >-
+        How does an increase in market size, say due to globalization, affect 
+        welfare? We study this question using a model with monopolistic competition, 
+        heterogeneous markups, and fixed costs. We characterize the change in 
+        welfare in the decentralized equilibrium, and decompose it into changes 
+        in technical efficiency and allocative efficiency due to reallocations. 
+        We show that there are three different types of reallocations that take 
+        place: (1) reallocations across firms with heterogeneous price elasticities 
+        due to increased entry, (2) reallocations due to the exit of marginally 
+        profitable firms, and (3) reallocations due to changes in firms’ markups. 
+        Whereas the second and third effects have ambiguous implications for 
+        welfare, the first effect, which we call the Darwinian effect, always 
+        increases welfare regardless of the shape of demand curves. We 
+        non-parametrically calibrate residual demand curves with firm-level data 
+        from Belgian manufacturing firms and quantify our theoretical results. 
+        We find that mild increasing returns at the micro level can catalyze 
+        large increasing returns at the macro level. These aggregate gains are 
+        due to the Darwinian effect, which reallocates resources from low- to 
+        high-markup firms, and not the death of unproductive firms (2) or 
+        changes in markups (3). Our results suggest that a policy-maker can 
+        harness Darwinian reallocations in an economy with fixed resources by 
+        subsidizing firm entry costs.
+
     - supply_side:
       title: The Supply-Side Effects of Monetary Policy
       coauthors: David Rezza Baqaee and Emmanuel Farhi
@@ -12,22 +42,27 @@
           name: VoxEU Summary
           href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
       abstract: >-
-        We propose a supply-side channel for the transmission of monetary policy. We 
-        show that in an economy with heterogeneous firms and endogenous markups, monetary shocks 
-        have first-order effects on aggregate TFP. If high-markup firms have lower
-        pass-throughs than low-markup firms, as is consistent with the empirical evidence,
-        then a monetary easing generates an endogenous positive “supply shock” that amplifies the 
-        positive “demand shock” on output. The result is a flattening of the Phillips
-        curve. This effect is distinct from another mechanism discussed at length in the real
-        rigidities literature: a monetary easing leads to a reduction in desired markups because 
-        of strategic complementarities in pricing. We derive a tractable four-equation dynamic model, 
-        disciplined by four sufficient statistics from the firm distribution, and use it to show that 
-        a monetary easing generates a procyclical hump-shaped response
-        in aggregate TFP and countercyclical dispersion in firm-level TFPR. A calibration using 
-        firm-level pass-throughs suggests that the supply-side channel is quantitatively as
-        important as real rigidities, and amplifies both the impact and persistence of monetary shocks. 
-        Moreover, this channel becomes stronger, and the Phillips curve becomes
-        flatter, with increases in industrial concentration.
+        We propose a supply-side channel for the transmission of monetary policy. 
+        We show that in an economy with heterogeneous firms and endogenous markups, 
+        monetary shocks have first-order effects on aggregate productivity. 
+        If high-markup firms have lower pass-throughs than low-markup firms, 
+        as is consistent with the empirical evidence, then a monetary easing 
+        generates an endogenous positive “supply shock” that amplifies the positive 
+        “demand shock” on output. The result is a flattening of the Phillips curve. 
+        This effect is distinct from another mechanism discussed at length in the 
+        real rigidities literature: a monetary easing leads to a reduction in desired 
+        markups because of strategic complementarities in pricing. We derive a 
+        tractable four-equation dynamic model, disciplined by four sufficient 
+        statistics from the distribution of firms, and use it to show that a monetary 
+        easing generates a procyclical hump-shaped response in aggregate TFP and 
+        countercyclical dispersion in firm-level TFPR. In the data, in line with 
+        the model’s predictions, we observe both procyclical aggregate productivity 
+        and reallocations to high-markup firms during expansions. A calibration 
+        using firm-level pass-throughs suggests that the supply-side channel is 
+        quantitatively as important as real rigidities, and amplifies both the 
+        impact and persistence of monetary shocks. Moreover, this channel becomes 
+        stronger, and the Phillips curve becomes flatter, with increases in 
+        industrial concentration.
 
     - herding:
       title: Venture-Backed Successes and Entrepreneur Herding
