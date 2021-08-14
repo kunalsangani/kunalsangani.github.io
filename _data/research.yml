@@ -8,14 +8,15 @@
         - paper:
           name: Full Text
           href: https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fr3gwifq1oytevok%2FDarwinian_live.pdf%3Fraw%3D1&sa=D&sntz=1&usg=AFQjCNEpLW2BC9B8j2PBM7-0ahfXD6jQlw
+        - voxeu:
+          name: VoxEU Summary
+          href: https://voxeu.org/article/darwinian-reallocations-and-origins-aggregate-increasing-returns-scale
       abstract: >-
-        How does an increase in market size, say due to globalization, affect 
-        welfare? We study this question using a model with monopolistic competition, 
-        heterogeneous markups, and fixed costs. We characterize the change in 
-        welfare in the decentralized equilibrium, and decompose it into changes 
-        in technical efficiency and allocative efficiency due to reallocations. 
-        We show that there are three different types of reallocations that take 
-        place: (1) reallocations across firms with heterogeneous price elasticities 
+        How does an increase in market size, say due to globalization, affect welfare? We study 
+        this question using a model with monopolistic competition, heterogeneous markups, and fixed
+        costs. We characterize the change in welfare in the decentralized equilibrium, and decompose
+        it into changes in technical efficiency and allocative efficiency. Allocative efficiency changes due
+        to three different types of reallocations: (1) reallocations across firms with heterogeneous price elasticities 
         due to increased entry, (2) reallocations due to the exit of marginally 
         profitable firms, and (3) reallocations due to changes in firms’ markups. 
         Whereas the second and third effects have ambiguous implications for 
