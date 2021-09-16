@@ -65,34 +65,6 @@
         stronger, and the Phillips curve becomes flatter, with increases in 
         industrial concentration.
 
-    - herding:
-      title: Venture-Backed Successes and Entrepreneur Herding
-      abstract: >-
-        How does the success of an existing startup influence the 
-        business ideas that aspiring entrepreneurs pursue? Do 
-        venture-backed successes spawn other "copycat" companies, 
-        or are entrepreneurs discouraged from entering markets where 
-        they will be forced to confront a well-funded competitor? 
-        I use ProductHunt, an online platform where entrepreneurs 
-        share early product and business ideas, to isolate how the 
-        ideas pursued by entrepreneurs change in the aftermath of large 
-        funding rounds and acquisitions. Following the acquisition of 
-        venture-backed companies, I find a significant uptick in 
-        ProductHunt posts similar to the acquired company: the average 
-        post 90 days after the acquisition announcement is 40-70% more 
-        similar to the acquired company than posts preceding the 
-        acquisition. A similar (though more modest) herding effect 
-        follows the announcement of a company's first funding round 
-        over $100M. This herding behavior suggests that aspiring 
-        entrepreneurs place more weight on the *market size signal* 
-        from an acquisition or funding round relative to the 
-        *competitor share signal*. Entrepreneurs' responses to 
-        news are potentially inefficient: while companies posted in the 
-        90 days after an acquisition announcement have similar short-term 
-        outcomes to those posted in the 90 days prior, companies posted 
-        following the announcement go on to receive less press coverage, 
-        funding, and estimated revenue.
-
     - honors:
       title: A Model of Firm Formality and Tax Evasion
       links:
