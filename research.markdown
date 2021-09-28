@@ -8,4 +8,3 @@ permalink: /research
 order: 3
 ---
 
-Current and previous academic work, and selected other writings.

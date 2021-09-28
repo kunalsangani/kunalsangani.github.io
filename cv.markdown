@@ -16,6 +16,7 @@ order: 2
 
 **Harvard Business School**, 8/19 - Present
 - PhD Candidate, Business Economics (joint program b/w Harvard Economics & HBS)
+- [John M. Olin Fellow in Empirical Law and Finance](https://pcg.law.harvard.edu/fellows/kunal-sangani/)
 - Fields: Macroeconomics, Finance
 
 **Stanford University**, 9/12 - 6/16
