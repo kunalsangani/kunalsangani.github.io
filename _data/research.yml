@@ -1,9 +1,15 @@
 - working-papers:
   section_name: Academic Papers
   items:
+    - income_markups:
+      title: >-
+        Markups Across the Income Distribution: Measurement and Implications
+      status: (In progress)
+
     - darwinian:
       title: The Darwinian Returns to Scale
       coauthors: David Rezza Baqaee and Emmanuel Farhi
+      status: R&R, The Review of Economic Studies
       links:
         - paper:
           name: Full Text
@@ -35,6 +41,7 @@
     - supply_side:
       title: The Supply-Side Effects of Monetary Policy
       coauthors: David Rezza Baqaee and Emmanuel Farhi
+      status: R&R, Journal of Political Economy
       links:
         - paper:
           name: Full Text
@@ -65,27 +72,6 @@
         stronger, and the Phillips curve becomes flatter, with increases in 
         industrial concentration.
 
-    - honors:
-      title: A Model of Firm Formality and Tax Evasion
-      links:
-        - paper:
-          name: Full Text
-          href: https://purl.stanford.edu/cp747fr3982
-      abstract: >-
-        Rampant informality in developing economies proves to be a 
-        major obstacle to public revenue collection, limiting investment 
-        in crucial public infrastructure. The model presented in this 
-        paper sheds light on inter-firm mechanisms that motivate firms 
-        to either transact formally or transact informally and evade 
-        taxes. The formulation allows us to predict comparative statics 
-        on a variety of parameters, including the effective tax rate, 
-        the likelihood of audit, the penalties levered against firms 
-        caught transacting informally, and the distribution of firm sizes 
-        in the economy. Empirical support for each of these predictions 
-        is discussed. In particular, the model provides theoretical 
-        underpinnings for predicting the effect of multinational entry and 
-        trade liberalization on the size of the informal sector.
-
 - other-work:
   section_name: Other Work
   items:
@@ -108,16 +94,25 @@
         in these settings. This paper discusses the various risks and 
         describes mitigation techniques. 
 
-    - cs229:
-      title: Neighborhood and Price Prediction for San Francisco Airbnb Listings
-      coauthors: Emily Tang 
+    - honors:
+      title: A Model of Firm Formality and Tax Evasion
+      status: (Undergraduate Thesis)
       links:
         - paper:
           name: Full Text
-          href: http://cs229.stanford.edu/proj2015/236_report.pdf
-      abstract:
-        We train models for neighborhood and price prediction using 
-        language and features from Airbnb postings provided by 
-        Inside Airbnb. We find that our model successfully predicts 
-        neighborhoods and prices beyond a classification baseline. 
+          href: https://purl.stanford.edu/cp747fr3982
+      abstract: >-
+        Rampant informality in developing economies proves to be a 
+        major obstacle to public revenue collection, limiting investment 
+        in crucial public infrastructure. The model presented in this 
+        paper sheds light on inter-firm mechanisms that motivate firms 
+        to either transact formally or transact informally and evade 
+        taxes. The formulation allows us to predict comparative statics 
+        on a variety of parameters, including the effective tax rate, 
+        the likelihood of audit, the penalties levered against firms 
+        caught transacting informally, and the distribution of firm sizes 
+        in the economy. Empirical support for each of these predictions 
+        is discussed. In particular, the model provides theoretical 
+        underpinnings for predicting the effect of multinational entry and 
+        trade liberalization on the size of the informal sector.
 

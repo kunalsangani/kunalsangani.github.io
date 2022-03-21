@@ -10,6 +10,9 @@
 					{% if entry.coauthors %}
 						with {{ entry.coauthors }}<br>
 					{% endif %}
+					{% if entry.status %}
+						<i>{{ entry.status }}</i><br>
+					{% endif %}
 					{% if entry.links %}
 						{% for link in entry.links %}
 							<a href="{{link.href}}">[{{link.name}}]</a> 

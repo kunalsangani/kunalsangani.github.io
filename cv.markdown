@@ -14,12 +14,12 @@ order: 2
 
 ## Education
 
-**Harvard Business School**, 8/19 - Present
+**Harvard Business School**, 2019&ndash;Present
 - PhD Candidate, Business Economics (joint program b/w Harvard Economics & HBS)
 - [John M. Olin Fellow in Empirical Law and Finance](https://pcg.law.harvard.edu/fellows/kunal-sangani/)
 - Fields: Macroeconomics, Finance
 
-**Stanford University**, 9/12 - 6/16
+**Stanford University**, 2012&ndash;2016
 - B.A. with Honors & Distinction, Economics and Computer Science (minor)
 - [J. E. Wallace Sterling Award](https://humsci.stanford.edu/current-students/sterling-award-undergraduates) (top 25 graduates in the school of Humanities and Sciences)
 - [James W. Lyons Award for Service](https://news.stanford.edu/thedish/2016/06/01/students-organizations-advisers-recognized-for-service-activities/) (awarded to 4 students by Vice Provost)
@@ -31,18 +31,16 @@ order: 2
 
 ## Experience
 
-[**Bolt**](https://bolt.com) (payments startup), San Francisco, 4/18 - 7/19
-- First Business Operations team member; led Marketing as Bolt grew from 20 to 150+ employees
+[**Bolt**](https://bolt.com) (payments startup): Business Operations, San Francisco, 2018&ndash;2019
 
-[**The Boston Consulting Group**](https://bcg.com), San Francisco, 6/15 - 9/15 and 1/17 - 4/18
-- Selected casework: impact measurement for SF-based nonprofit foundation, product launch for Fortune 50 technology company, M&A strategy for Fortune 500 apparel retailer
+**The Boston Consulting Group**: Associate, San Francisco, 2017&ndash;2018
 
-[**White House Council of Economic Advisers**](https://obamawhitehouse.archives.gov/sites/default/files/docs/ERP_2016_Book_Complete%20JA.pdf), Washington, D.C., 9/16 - 12/16
-- Contributions include [AI and the Economy](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) and [TPP issue brief](https://obamawhitehouse.archives.gov/sites/default/files/page/files/201611_cost_of_tpp_delay_issue_brief.pdf)
+**White House Council of Economic Advisers**: Research intern, Washington, D.C., 2016
 
-[**Google**](https://careers.google.com/programs/apm/), Mountain View, 6/16 - 9/16
-- Associate Product Management (APM) intern, ChromeOS
+**Google**: Associate Product Management (APM) intern, Mountain View, 2016
 
 ## Teaching
 
-Teaching Assistant, Problem Solving and Decision-Making for Social Change, Stanford Law School
+Teaching Assistant to Larry Summers and Robert Lawrence, The Political Economy of Globalization, Harvard
+
+Teaching Assistant to Paul Brest, Problem Solving and Decision-Making for Social Change, Stanford Law School
