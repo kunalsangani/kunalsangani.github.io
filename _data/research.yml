@@ -76,25 +76,19 @@
       abstract: >-
         We propose a supply-side channel for the transmission of monetary policy. 
         We show that in an economy with heterogeneous firms and endogenous markups, 
-        monetary shocks have first-order effects on aggregate productivity. 
-        If high-markup firms have lower pass-throughs than low-markup firms, 
-        as is consistent with the empirical evidence, then a monetary easing 
-        generates an endogenous positive “supply shock” that amplifies the positive 
-        “demand shock” on output. The result is a flattening of the Phillips curve. 
-        This effect is distinct from another mechanism discussed at length in the 
-        real rigidities literature: a monetary easing leads to a reduction in desired 
-        markups because of strategic complementarities in pricing. We derive a 
-        tractable four-equation dynamic model, disciplined by four sufficient 
-        statistics from the distribution of firms, and use it to show that a monetary 
-        easing generates a procyclical hump-shaped response in aggregate TFP and 
-        countercyclical dispersion in firm-level TFPR. In the data, in line with 
-        the model’s predictions, we observe both procyclical aggregate productivity 
-        and reallocations to high-markup firms during expansions. A calibration 
-        using firm-level pass-throughs suggests that the supply-side channel is 
-        quantitatively as important as real rigidities, and amplifies both the 
-        impact and persistence of monetary shocks. Moreover, this channel becomes 
-        stronger, and the Phillips curve becomes flatter, with increases in 
-        industrial concentration.
+        demand shocks have first-order effects on aggregate productivity. If high-markup firms 
+        have lower pass-throughs than low-markup firms, as is consistent with the 
+        empirical evidence, then a monetary easing reallocates resources to high-markup 
+        firms and alleviates misallocation. In this case, positive “demand shocks” 
+        are accompanied by endogenous positive “supply shocks” that raise output and 
+        productivity, lower inflation, and flatten the Phillips curve. We derive a 
+        tractable four-equation dynamic model and use it to show that monetary shocks 
+        generate a procyclical hump-shaped response in TFP and endogenous cost-push 
+        shocks in the New Keynesian Phillips curve. A calibration of the model 
+        suggests that the supply-side effect increases the half-life of a monetary shock’s 
+        effect on output by about 30% and amplifies the cumulative effect on output 
+        by about 70%. We provide empirical evidence of the micro-level reallocations 
+        that generate procyclical TFP using identified monetary shocks.
 
 - other-work:
   section_name: Other Work
