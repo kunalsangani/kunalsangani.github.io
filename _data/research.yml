@@ -11,6 +11,9 @@
         - voxeu:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
+        - marginalrevolution:
+          name: Marginal Revolution
+          href: https://marginalrevolution.com/marginalrevolution/2022/06/rich-people-pay-higher-mark-ups.html
       abstract: >-
         The Law of Diminishing Elasticity of Demand (Harrod 1936) conjectures 
         that price elasticity declines with income. I provide empirical evidence 
@@ -24,8 +27,8 @@
         higher retail markup. A search model in which households' search intensity 
         depends on their opportunity cost of time can replicate these facts. 
         Through the lens of the model, changes in the income distribution since 
-        1950 account for a 9pp rise in retail markups, with one-third of the 
-        increase due to growing income dispersion. This rise in markups consists 
+        1950 account for a 10pp rise in retail markups, with 30% of the 
+        increase since 1980 due to growing income dispersion. This rise in markups consists 
         of within-firm markup increases as well as a reallocation of sales to 
         high-markup firms, which occurs without any changes to the nature of 
         firm production or competition.
