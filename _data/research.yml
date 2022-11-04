@@ -44,6 +44,12 @@
         - voxeu:
           name: VoxEU Summary
           href: https://voxeu.org/article/darwinian-reallocations-and-origins-aggregate-increasing-returns-scale
+        - demandcurves:
+          name: Code for Evaluating Demand System
+          href: https://kunalsangani.com/files/Darwinian_DemandCurves.zip
+        - voxeu:
+          name: Replication Code
+          href: https://kunalsangani.com/files/Darwinian_ReplicationCode.zip
       abstract: >-
         How does an increase in market size, say due to globalization, affect welfare? We study 
         this question using a model with monopolistic competition, heterogeneous markups, and fixed
