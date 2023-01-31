@@ -33,6 +33,27 @@
         high-markup firms, which occurs without any changes to the nature of 
         firm production or competition.
 
+    - fedvol:
+      title: >-
+        The Market Impact of Fed Communications: The Role of the Press Conference
+      links:
+        - paper:
+          name: Full Text
+          href: https://kunalsangani.com/files/NarainSangani_FedVol_live.pdf.pdf
+      abstract: >-
+        We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
+        Using intraday trading data, we find that market volatility is more than three times higher during 
+        press conferences given by current Chair Jerome Powell than during press conferences by predecessors 
+        Janet Yellen and Ben Bernanke. Press conferences since the start of Covid-19 are largely responsible 
+        for the heightened market volatility during Chair Powell's conferences. During this period, 
+        we find that the market tends to move in the opposite direction during the press conferences 
+        compared to its movement following the FOMC statement publication. In contrast, press 
+        conferences by Chairs Bernanke and Yellen tended to reinforce the market's initial reaction to 
+        the information released in the FOMC statement. Text analysis of the Q\&A portions of Powell’s 
+        press conferences suggests that his choice of language correlates with these market movements. 
+        We find that Fed communications during the recent period have been less effective in reducing 
+        forward-looking interest rate uncertainty. 
+
     - darwinian:
       title: The Darwinian Returns to Scale
       coauthors: David Rezza Baqaee and Emmanuel Farhi
