@@ -22,12 +22,11 @@ order: 2
 **Stanford University**, 2012&ndash;2016
 - B.A. with Honors & Distinction, Economics and Computer Science (minor)
 - [J. E. Wallace Sterling Award](https://humsci.stanford.edu/current-students/sterling-award-undergraduates) (top 25 graduates in the school of Humanities and Sciences)
-- [James W. Lyons Award for Service](https://news.stanford.edu/thedish/2016/06/01/students-organizations-advisers-recognized-for-service-activities/) (awarded to 4 students by Vice Provost)
-- [Firestone Medal for Excellence in Undergraduate Research](https://news.stanford.edu/2016/07/15/stanford-seniors-thesis-projects-garner-university-medals/)
-- [Levinthal Recipient](https://creativewriting.stanford.edu/undergraduate/resources/levinthal-tutorials)
-<!--- [Urmy/Hardy Poetry Prize](https://news.stanford.edu/thedish/2016/06/08/stanford-students-win-creative-writing-prizes/) (second place)-->
+- Honors thesis: "A Model of Firm Formality and Tax Evasion," advised by Matthew Jackson and Michael Best, awarded [Firestone Medal](https://news.stanford.edu/2016/07/15/stanford-seniors-thesis-projects-garner-university-medals/)
 - Junior Phi Beta Kappa
-- Honors thesis: "A Model of Firm Formality and Tax Evasion," advised by Matthew Jackson and Michael Best
+- [James W. Lyons Award for Service](https://news.stanford.edu/thedish/2016/06/01/students-organizations-advisers-recognized-for-service-activities/)
+<!--- [Urmy/Hardy Poetry Prize](https://news.stanford.edu/thedish/2016/06/08/stanford-students-win-creative-writing-prizes/) (second place)-->
+- [Levinthal Recipient](https://creativewriting.stanford.edu/undergraduate/resources/levinthal-tutorials)
 
 ## Experience
 

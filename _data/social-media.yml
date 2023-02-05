@@ -16,8 +16,8 @@ twitter:
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
-github:
-  id: 'kunalsangani'
-  href: 'https://github.com/kunalsangani'
-  title: 'GitHub'
-  fa-icon: 'fa-github-square'
+# github:
+#   id: 'kunalsangani'
+#   href: 'https://github.com/kunalsangani'
+#   title: 'GitHub'
+#   fa-icon: 'fa-github-square'
