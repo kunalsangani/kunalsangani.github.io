@@ -44,6 +44,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354333
+        - voxeu:
+          name: VoxEU Summary
+          href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
       abstract: >-
         We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
         Using intraday trading data, we find that market volatility is more than three times higher during 
