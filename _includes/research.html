@@ -19,6 +19,14 @@
 						{% endfor %}
 						<br>
 					{% endif %}
+					{% if entry.coverage %}
+						<strong><i>Media: </i></strong>
+						{% for link in entry.coverage %}
+							<a style="color:black" href="{{link.href}}">
+							{{link.name}}{% if forloop.last %}{% else %},{% endif %}
+							</a>
+						{% endfor %}<br>
+					{% endif %}
 					{% if entry.abstract %}
 						<a class="collapse" value=0 onclick="collapsible(event)">+ More</a>
 						<p hidden=True>{{ entry.abstract }}</p>
@@ -41,6 +49,9 @@
 	}
 </script>
 <style>
+	ul {
+    	margin-bottom: 0px;
+	}
 	.research-project {
 		margin-bottom: 20px;
 	}

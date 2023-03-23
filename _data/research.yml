@@ -11,6 +11,7 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
+      coverage:
         - marginalrevolution:
           name: Marginal Revolution
           href: https://marginalrevolution.com/marginalrevolution/2022/06/rich-people-pay-higher-mark-ups.html
@@ -47,6 +48,19 @@
         - voxeu:
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
+      coverage:
+        - c1:
+          name: Financial Times
+          href: https://www.ft.com/content/9a7df5ba-e428-4bb0-87db-e4f1b78d8c85
+        - c2:
+          name: Bloomberg
+          href: https://www.bloomberg.com/news/newsletters/2023-03-22/global-economy-latest-fed-decision-day
+        - c3:
+          name: Brookings
+          href: https://www.brookings.edu/2023/03/23/hutchins-roundup-uninsured-depositor-runs-quantitative-easing-and-more/
+        - c4:
+          name: Marketwatch
+          href: https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-decline-ahead-of-rate-decision/card/powell-s-press-conferences-found-to-be-three-times-more-volatile-for-markets-than-his-predecessors-researchers-say-Se72yBTbURk74iLnjJFx
       abstract: >-
         We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
         Using intraday trading data, we find that market volatility is more than three times higher during 
