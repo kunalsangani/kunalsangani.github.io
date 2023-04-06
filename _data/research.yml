@@ -64,6 +64,9 @@
         - c5:
           name: Bloomberg Opinion 
           href: https://www.bloomberg.com/opinion/articles/2023-03-23/rocky-horror-fed-show-stuck-in-a-time-warp-with-janet-and-jerome
+        - c6:
+          name: Semafor
+          href: https://www.semafor.com/newsletter/03/28/2023/the-silicon-valley-bank-blame-game
       abstract: >-
         We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
         Using intraday trading data, we find that market volatility is more than three times higher during 
