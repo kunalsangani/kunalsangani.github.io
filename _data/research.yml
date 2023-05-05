@@ -67,6 +67,12 @@
         - c6:
           name: Semafor
           href: https://www.semafor.com/newsletter/03/28/2023/the-silicon-valley-bank-blame-game
+        - c7:
+          name: Investopedia
+          href: https://www.investopedia.com/when-jerome-powell-speaks-markets-shudder-7488957
+        - c8: 
+          name: Coinmotion
+          href: https://coinmotion.com/bitcoin-retains-its-momentum-amid-the-chaos/
       abstract: >-
         We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
         Using intraday trading data, we find that market volatility is more than three times higher during 
