@@ -49,6 +49,9 @@
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
       coverage:
+        - c0:
+          name: Wall Street Journal
+          href: https://www.wsj.com/livecoverage/federal-reserve-meeting-interest-rate-june-2023/card/how-powell-s-press-conference-moves-the-market-8VuQafVcOanfeG3aQeqa
         - c1:
           name: Financial Times
           href: https://www.ft.com/content/9a7df5ba-e428-4bb0-87db-e4f1b78d8c85
@@ -70,9 +73,9 @@
         - c7:
           name: Investopedia
           href: https://www.investopedia.com/when-jerome-powell-speaks-markets-shudder-7488957
-        - c8: 
-          name: Coinmotion
-          href: https://coinmotion.com/bitcoin-retains-its-momentum-amid-the-chaos/
+        # - c8: 
+        #   name: Coinmotion
+        #   href: https://coinmotion.com/bitcoin-retains-its-momentum-amid-the-chaos/
       abstract: >-
         We document a shift in the market impact of the press conference given by the Federal Reserve Chair at the close of FOMC meetings. 
         Using intraday trading data, we find that market volatility is more than three times higher during 
