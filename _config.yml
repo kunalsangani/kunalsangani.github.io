@@ -27,6 +27,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   focused on macroeconomics and finance.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kunalsangani.com" # the base hostname & protocol for your site, e.g. http://example.com
+image: "/assets/images/kunalsangani_headshot_cropped.jpeg"
+defaults:
+  values:
+    image: "/assets/images/kunalsangani_headshot_cropped.jpeg"
 linkedin_username: kunalsangani
 twitter_username: ksangani8
 github_username:  kunalsangani
@@ -35,6 +39,7 @@ google_analytics: G-7YZEDL3WJX
 # Build settings
 theme: minima
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
 
 # Exclude from processing.
