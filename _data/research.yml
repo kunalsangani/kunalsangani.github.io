@@ -15,24 +15,19 @@
         - marginalrevolution:
           name: Marginal Revolution
           href: https://marginalrevolution.com/marginalrevolution/2022/06/rich-people-pay-higher-mark-ups.html
+      status: New Draft Coming Soon!
       abstract: >-
-        The Law of Diminishing Elasticity of Demand (Harrod 1936) conjectures 
-        that price elasticity declines with income. I provide empirical evidence 
-        in support of Harrod's conjecture using data on household transactions 
-        and wholesale costs. Over the observed set of purchases, high-income 
-        households pay 14pp higher retail markups than low-income households. 
-        Half of this markup gap is due to 
-        differences in markups paid at the same store. Conversely, products with 
-        a high-income customer base charge higher markups: a 10pp higher share 
-        of customers with over $100K in income is associated with a 3–7 percent 
-        higher retail markup. A model in which household search intensity
-        depends on opportunity cost of time can replicate these facts. 
-        Through the lens of the model, changes in the income distribution since 
-        1950 account for a 10-14pp rise in retail markups, with 30 percent of the 
-        increase since 1980 due to growing income dispersion. This rise in markups consists 
-        of within-firm markup increases as well as a reallocation of sales to 
-        high-markup firms, which occurs without any changes to the nature of 
-        firm production or competition.
+        I examine the relationship between customer income and firm markups using rich data on household transactions 
+        and wholesale costs. Over the observed purchases, high-income households pay 15pp higher retail markups than 
+        low-income households. Half of this markup gap is due to differences in markups paid at the same store. 
+        Conditional on income, markups paid by a household also increase when a household shops in high-income areas, 
+        at retail chains with locations in other high-income areas, or when purchasing products with a high-income 
+        customer base. A model in which household search intensity depends on opportunity cost of time can account 
+        for these facts. Consistent with the model’s predictions, I document that retail markups across cities rise 
+        with both per-capita income and inequality. Through the lens of the model, changes in the income distribution 
+        since 1950 account for a 10–14pp rise in retail markups, with 30 percent of the increase since 1980 due to 
+        growing income dispersion. This rise in markups consists of within-firm markup increases as well as a 
+        reallocation of sales to high-markup firms, which occurs without any change to the nature of firm production or competition.
 
     - fedvol:
       title: >-
@@ -112,7 +107,7 @@
     - darwinian:
       title: The Darwinian Returns to Scale
       coauthors: David Rezza Baqaee and Emmanuel Farhi
-      status: Accepted, The Review of Economic Studies
+      status: The Review of Economic Studies, forthcoming
       links:
         - paper:
           name: Full Text
@@ -134,7 +129,7 @@
         a model with monopolistic competition, heterogeneous markups, and fixed costs. We characterize changes in welfare 
         and decompose changes in allocative efficiency into three different effects: (1) reallocations across firms with 
         heterogeneous price elasticities due to intensifying competition, (2) reallocations due to the exit of marginally 
-        profitable firms, and (3) reallocations due to changes in firms’ markups. Whereas the sec- ond and third effects have 
+        profitable firms, and (3) reallocations due to changes in firms’ markups. Whereas the second and third effects have 
         ambiguous implications for welfare, the first effect, which we call the Darwinian effect, always increases welfare 
         regardless of the shape of demand curves. We non-parametrically calibrate demand curves with data from Belgian manufacturing 
         firms and quantify our results. We find that mild increasing returns at the micro level can catalyze large increasing returns 
@@ -146,7 +141,7 @@
     - supply_side:
       title: The Supply-Side Effects of Monetary Policy
       coauthors: David Rezza Baqaee and Emmanuel Farhi
-      status: Accepted, Journal of Political Economy
+      status: Journal of Political Economy, forthcoming
       links:
         - paper:
           name: Full Text
@@ -199,6 +194,9 @@
       links:
         - paper:
           name: Full Text
+          href: https://kunalsangani.com/files/honorsthesis_live.pdf
+        - stanford:
+          name: Stanford Digital Repository
           href: https://purl.stanford.edu/cp747fr3982
       abstract: >-
         Rampant informality in developing economies proves to be a 
