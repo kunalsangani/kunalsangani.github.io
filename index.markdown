@@ -10,7 +10,9 @@ order: 1
 
 ![Kunal Sangani headshot](/assets/images/kunalsangani_headshot_cropped.jpeg){:class='kunal'}
 
-I'm a PhD candidate in Business Economics at Harvard with interests in macroeconomics and finance. My work relates to aggregate productivity, inflation, and firm behavior. 
+I'm a fifth-year PhD student at Harvard with interests in macroeconomics and finance. My work relates to inflation, aggregate productivity, and firm behavior. 
+
+**I am on the 2023–2024 job market.**
 
 Previously, I worked at Bolt, a payments startup in San Francisco, and the Boston Consulting Group.
 

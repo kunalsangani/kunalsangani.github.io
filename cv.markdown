@@ -8,6 +8,8 @@ permalink: /cv
 order: 2
 ---
 
+# [\[Download PDF\]](https://kunalsangani.com/files/cv_live.pdf)
+
 # Kunal Sangani
 
 8ksangani@gmail.com
