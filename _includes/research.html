@@ -10,6 +10,9 @@
 					{% if entry.coauthors %}
 						with {{ entry.coauthors }}<br>
 					{% endif %}
+					{% if entry.jobmarket %}
+						<p style="font-size:14px; margin-bottom:0px"}>JOB MARKET PAPER</p>
+					{% endif %}
 					{% if entry.status %}
 						<i>{{ entry.status }}</i><br>
 					{% endif %}
