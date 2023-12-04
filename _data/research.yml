@@ -12,6 +12,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/incomemarkups_pres_live.pdf
       coverage:
         - marginalrevolution:
           name: Marginal Revolution
@@ -39,6 +42,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4574233
+        - voxeu:
+          name: VoxEU Summary
+          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
       abstract: >-
         Empirical studies of commodity cost pass-through typically find that pass-through is incomplete: even at long horizons, 
         a 10 percent increase in costs causes retail prices to rise less than 10 percent. Using microdata from gasoline and food products, 
