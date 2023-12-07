@@ -45,6 +45,10 @@
         - voxeu:
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
+      coverage:
+        - c0:
+          name: Macro Roundup
+          href: https://www.edwardconard.com/macro-roundup/as-prices-rise-lower-income-households-are-disproportionately-impacted-as-they-generally-buy-products-with-lower-prices-and-margins-which-are-more-sensitive-to-inflationary-episodes-ksangani8/
       abstract: >-
         Empirical studies of commodity cost pass-through typically find that pass-through is incomplete: even at long horizons, 
         a 10 percent increase in costs causes retail prices to rise less than 10 percent. Using microdata from gasoline and food products, 
