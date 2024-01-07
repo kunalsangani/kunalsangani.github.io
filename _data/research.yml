@@ -12,9 +12,6 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
-        - slides:
-          name: Slides
-          href: https://kunalsangani.com/files/incomemarkups_pres_live.pdf
       coverage:
         - marginalrevolution:
           name: Marginal Revolution
