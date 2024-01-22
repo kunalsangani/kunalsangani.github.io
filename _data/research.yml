@@ -39,9 +39,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4574233
-        - voxeu:
-          name: VoxEU Summary
-          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
+        # - voxeu:
+        #   name: VoxEU Summary
+        #   href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
       coverage:
         - c0:
           name: Macro Roundup
@@ -63,6 +63,7 @@
       title: >-
         The Market Impact of Fed Communications: The Role of the Press Conference
       coauthors: Namrata Narain
+      status: R&R, International Journal of Central Banking
       links:
         - paper:
           name: Full Text
@@ -70,9 +71,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354333
-        - voxeu:
-          name: VoxEU Summary
-          href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
+        # - voxeu:
+        #   name: VoxEU Summary
+        #   href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
       coverage:
         - c0:
           name: Wall Street Journal
@@ -132,9 +133,9 @@
         - demandcurves:
           name: Code for Evaluating Demand System
           href: https://kunalsangani.com/files/Darwinian_DemandCurves.zip
-        - voxeu:
-          name: Replication Code
-          href: https://kunalsangani.com/files/Darwinian_ReplicationCode.zip
+        # - voxeu:
+        #   name: Replication Code
+        #   href: https://kunalsangani.com/files/Darwinian_ReplicationCode.zip
       abstract: >-
         How does an increase in market size, say due to globalization, affect welfare? We study this question using 
         a model with monopolistic competition, heterogeneous markups, and fixed costs. We characterize changes in welfare 
@@ -160,9 +161,9 @@
         - nber:
           name: NBER
           href: https://www.nber.org/papers/w28345
-        - voxeu:
-          name: VoxEU Summary
-          href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
+        # - voxeu:
+        #   name: VoxEU Summary
+        #   href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
       abstract: >-
         We propose a supply-side channel for the transmission of monetary policy. We
         show that in an economy with heterogeneous firms and endogenous markups, demand shocks such as 
@@ -178,8 +179,43 @@
         we provide empirical evidence for both the macro- and micro-level predictions of our model.
 
 - other-work:
-  section_name: Other Work
+  section_name: Other Writings
   items:
+    - passthrough:
+      title: Evidence—and an explanation—for the recent surge in inflation inequality
+      status: VoxEU, December 2023
+      links:
+        - link:
+          name: Link
+          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
+
+    - presser:
+      title: The market impact of the Fed press conference
+      status: VoxEU, March 2023
+      coauthors: Namrata Narain
+      links:
+        - link:
+          name: Link
+          href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
+
+    - presser:
+      title: Darwinian reallocations and the origins of aggregate increasing returns to scale
+      status: VoxEU, August 2021
+      coauthors: David Baqaee
+      links:
+        - link:
+          name: Link
+          href: https://voxeu.org/article/darwinian-reallocations-and-origins-aggregate-increasing-returns-scale
+    
+    - presser:
+      title: 'Monetary policy and producitivity: A new transmission channel'
+      status: VoxEU, January 2021
+      coauthors: David Baqaee and Emmanuel Farhi
+      links:
+        - link:
+          name: Link
+          href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
+
     - impact:
       title: 'Impact Investing in Developing Countries: Legal Institutions and Work-Arounds'
       coauthors: Paul Brest, Shereen Griffith, Damira Khatam, Demoni Newman, Reirui Ri, Alessandra Santiago, Mengyi Xu, and Lucie Zikova
