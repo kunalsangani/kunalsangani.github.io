@@ -12,8 +12,6 @@ order: 2
 
 # Kunal Sangani
 
-8ksangani@gmail.com
-
 ## Education
 
 **Harvard Business School**, 2019&ndash;Present

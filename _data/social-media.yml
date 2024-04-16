@@ -1,18 +1,21 @@
 email:
   id: '8ksangani@gmail.com'
-  href: 'mailto:8ksangani@gmail.com'
+  #href: 'mailto:8ksangani@gmail.com'
+  href: '/'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
 linkedin:
   id: 'kunalsangani'
-  href: 'https://www.linkedin.com/in/kunalsangani/'
+  #href: 'https://www.linkedin.com/in/kunalsangani/'
+  href: '/'
   title: 'LinkedIn'
   fa-icon: 'fa-facebook-square'
 
 twitter:
   id: 'ksangani8'
-  href: 'https://twitter.com/ksangani8'
+  #href: 'https://twitter.com/ksangani8'
+  href: '/'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
 
