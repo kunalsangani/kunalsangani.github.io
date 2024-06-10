@@ -8,14 +8,15 @@ permalink: /cv
 order: 2
 ---
 
-# [\[Download PDF\]](https://kunalsangani.com/files/cv_live.pdf)
+# [\[Download PDF\]](https://kunalsangani.com/files/ksangani_cv.pdf)
 
 # Kunal Sangani
 
 ## Education
 
-**Harvard Business School**, 2019&ndash;Present
-- PhD Candidate, Business Economics (joint program b/w Harvard Economics & HBS)
+**Harvard Business School**, 2019&ndash;2024
+- PhD, Business Economics (joint program b/w Harvard Economics & HBS)
+- [Padma Desai Award in Economics](https://economics.harvard.edu/news/kunal-sangani-awarded-padma-desai-prize)
 - [John M. Olin Fellow in Empirical Law and Finance](https://pcg.law.harvard.edu/fellows/kunal-sangani/)
 - Fields: Macroeconomics, Finance
 
