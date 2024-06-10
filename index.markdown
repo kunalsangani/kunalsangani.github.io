@@ -12,8 +12,8 @@ order: 1
 
 ![Kunal Sangani headshot](/assets/images/kunalsangani_headshot_cropped.jpeg){:class='kunal'}
 
-I am an economist with interests in macroeconomics and finance. My work relates to inflation, aggregate productivity, and firm behavior. 
+I am a macroeconomist working on inflation, aggregate productivity, and firm behavior. 
 
-I am a postdoctoral fellow at Stanford from 2024-2025 and will join the Northwestern Economics department as an Assistant Professor starting in 2025.
+I am currently a postdoctoral fellow at the Stanford GSB, and will join the Northwestern Economics department as an Assistant Professor in July 2025.
 
-I earned a Ph.D. in Business Economics in 2024 from Harvard, advised by Gabriel Chodorow-Reich, Ludwig Straub, and Andrei Shleifer. Previously, I worked at Bolt, a payments startup in San Francisco, and the Boston Consulting Group.
+I earned a Ph.D. in Business Economics in 2024 from Harvard. Previously, I worked at Bolt, a payments startup in San Francisco, and the Boston Consulting Group.
