@@ -8,7 +8,7 @@ permalink: /cv
 order: 2
 ---
 
-# [\[Download PDF\]](https://kunalsangani.com/files/ksangani_cv.pdf)
+# [\[Download PDF\]](https://kunalsangani.com/files/cv/ksangani_cv.pdf)
 
 # Kunal Sangani
 
@@ -31,7 +31,7 @@ order: 2
 
 ## Experience
 
-[**Bolt**](https://bolt.com) (payments startup): Business Operations, San Francisco, 2018&ndash;2019
+**Bolt** (payments startup): Business Operations, San Francisco, 2018&ndash;2019
 
 **The Boston Consulting Group**: Associate, San Francisco, 2017&ndash;2018
 
