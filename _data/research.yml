@@ -119,7 +119,7 @@
     - darwinian:
       title: The Darwinian Returns to Scale
       coauthors: David Rezza Baqaee and Emmanuel Farhi
-      status: The Review of Economic Studies, 2024
+      status: Review of Economic Studies, 2024
       links:
         - paper:
           name: Full Text
@@ -178,37 +178,37 @@
         amplifies the total impact on output by about 70%. Using identified monetary shocks,
         we provide empirical evidence for both the macro- and micro-level predictions of our model.
 
-- in-progress:
-  section_name: Work In Progress 
-  items:
-    - resilience:
-      title: Misallocation and Resilience in Inefficient Economies 
-      coauthors: David Rezza Baqaee
-      abstract: >-
-        We characterize the nonlinear response of output to wedge shocks in economies with preexisting
-        distortions. In the presence of initial distortions, the effects of these shocks on output are described
-        by “Harberger trapezoids,” which generalize Harberger (1954) triangles away from the efficient
-        point. Output is concave with respect to wedge shocks in efficient economies and in economies
-        with elasticities of substitution below one but can be convex in shocks if elasticities of substitution
-        are greater than one and existing distortions are sufficiently large. Our results allow us to
-        characterize when a social planner prefers tax-based interventions to quota-based interventions
-        when regulating an externality, when a positive steady-state rate of inflation may be welfare-optimal, 
-        and when the type of manufactured price dispersion debated by Oi and Samuelson can
-        improve welfare. We apply our results to characterizing the effects of liberalization policies in developing economies.
+# - in-progress:
+#   section_name: Work In Progress 
+#   items:
+#     - resilience:
+#       title: Misallocation and Resilience in Inefficient Economies 
+#       coauthors: David Rezza Baqaee
+#       abstract: >-
+#         We characterize the nonlinear response of output to wedge shocks in economies with preexisting
+#         distortions. In the presence of initial distortions, the effects of these shocks on output are described
+#         by “Harberger trapezoids,” which generalize Harberger (1954) triangles away from the efficient
+#         point. Output is concave with respect to wedge shocks in efficient economies and in economies
+#         with elasticities of substitution below one but can be convex in shocks if elasticities of substitution
+#         are greater than one and existing distortions are sufficiently large. Our results allow us to
+#         characterize when a social planner prefers tax-based interventions to quota-based interventions
+#         when regulating an externality, when a positive steady-state rate of inflation may be welfare-optimal, 
+#         and when the type of manufactured price dispersion debated by Oi and Samuelson can
+#         improve welfare. We apply our results to characterizing the effects of liberalization policies in developing economies.
 
-    - tax:
-      title: A Quantifiable Model of International Tax Haven Usage and Multinational Taxation
-      coauthors: Antonio Coppola, Christopher Clayton, and Andreas Schaab
-      status: BEA application approved
-      abstract: >-
-        What distortions are caused by the current corporate income tax regime, and what are the key
-        tradeoffs vis-à-vis alternative systems such as global minimum tax mandates or apportionment
-        approaches? We introduce a theory of international tax haven usage and multinational taxation that
-        is amenable to quantification and welfare analysis via a sufficient statistics approach. We consider
-        several tax regimes both in the presence and absence of multilateral cooperation. We estimate the
-        elasticities and empirical moments required to quantify the model and provide an assessment of
-        proposed reforms to the global tax system. Our analysis encompasses the interaction of the
-        corporate tax regime with the individual income tax and with corporate securities issuance in tax havens.
+#     - tax:
+#       title: A Quantifiable Model of International Tax Haven Usage and Multinational Taxation
+#       coauthors: Antonio Coppola, Christopher Clayton, and Andreas Schaab
+#       status: BEA application approved
+#       abstract: >-
+#         What distortions are caused by the current corporate income tax regime, and what are the key
+#         tradeoffs vis-à-vis alternative systems such as global minimum tax mandates or apportionment
+#         approaches? We introduce a theory of international tax haven usage and multinational taxation that
+#         is amenable to quantification and welfare analysis via a sufficient statistics approach. We consider
+#         several tax regimes both in the presence and absence of multilateral cooperation. We estimate the
+#         elasticities and empirical moments required to quantify the model and provide an assessment of
+#         proposed reforms to the global tax system. Our analysis encompasses the interaction of the
+#         corporate tax regime with the individual income tax and with corporate securities issuance in tax havens.
 
 - other-work:
   section_name: Other Writings

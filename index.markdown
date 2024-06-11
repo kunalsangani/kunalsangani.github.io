@@ -14,6 +14,6 @@ order: 1
 
 I am a macroeconomist working on inflation, aggregate productivity, and firm behavior. 
 
-I am currently a postdoctoral fellow at the Stanford GSB, and will join the Northwestern Economics department as an Assistant Professor in July 2025.
+I am currently a postdoc at the Stanford GSB, and will join the Northwestern Economics department as an Assistant Professor in July 2025.
 
 I earned a Ph.D. in Business Economics in 2024 from Harvard. Previously, I worked at Bolt, a payments startup in San Francisco, and the Boston Consulting Group.
