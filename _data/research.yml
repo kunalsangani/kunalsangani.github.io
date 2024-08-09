@@ -39,9 +39,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4574233
-        # - voxeu:
-        #   name: VoxEU Summary
-        #   href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
+        - voxeu:
+          name: VoxEU Summary
+          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
       coverage:
         - c0:
           name: Macro Roundup
@@ -71,9 +71,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354333
-        # - voxeu:
-        #   name: VoxEU Summary
-        #   href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
+        - voxeu:
+          name: VoxEU Summary
+          href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
       coverage:
         - c0:
           name: Wall Street Journal
@@ -161,9 +161,9 @@
         - nber:
           name: NBER
           href: https://www.nber.org/papers/w28345
-        # - voxeu:
-        #   name: VoxEU Summary
-        #   href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
+        - voxeu:
+          name: VoxEU Summary
+          href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
       abstract: >-
         We propose a supply-side channel for the transmission of monetary policy. We
         show that in an economy with heterogeneous firms and endogenous markups, demand shocks such as 
