@@ -31,7 +31,7 @@
         reallocation of sales to high-markup firms, which occurs without any change to the nature of firm production or competition.
 
     - passthrough:
-      title: Pass-Through in Levels and the Unequal Incidence of Commodity Shocks 
+      title: Pass-Through in Levels and the Incidence of Commodity Shocks 
       links:
         - paper:
           name: Full Text
@@ -47,17 +47,20 @@
           name: Macro Roundup
           href: https://www.edwardconard.com/macro-roundup/as-prices-rise-lower-income-households-are-disproportionately-impacted-as-they-generally-buy-products-with-lower-prices-and-margins-which-are-more-sensitive-to-inflationary-episodes-ksangani8/
       abstract: >-
-        Empirical studies of commodity cost pass-through typically find that pass-through is incomplete: even at long horizons, 
-        a 10 percent increase in costs causes retail prices to rise less than 10 percent. Using microdata from gasoline and food products, 
-        I find that incomplete pass-through in percentages often disguises complete pass-through in levels: a $1/unit increase in commodity 
-        costs leads to $1/unit higher retail prices. Pass-through appears incomplete in percentages due to an additive margin between 
-        marginal costs and prices. A model in which firms seek to bound the risk of variable profits falling short of overhead costs 
-        can account for this pricing behavior. In contrast to the workhorse model, this model also predicts dynamics of industry gross 
-        margins and entry consistent with the data. An implication of complete pass-through in levels is that rising commodity costs 
-        lead to higher inflation rates for low-margin products in a category, though absolute price changes are similar across products. 
-        This generates cyclical inflation inequality. I find that food-at-home inflation for the lowest income quintile is 10 percent 
-        more sensitive to upstream commodity costs. From 2020–2023, unequal commodity cost pass-through is responsible for two-thirds of 
-        the gap in food-at-home inflation rates experienced by low- and high-income households.
+        Empirical studies find that the pass-through of commodity price movements to 
+        downstream prices is incomplete: a 10 percent increase in upstream costs causes 
+        downstream prices to rise less than 10 percent, even at long horizons. Using microdata 
+        from gasoline and food products, we find that incomplete pass-through in percentages 
+        often disguises complete pass-through in levels: a $1/unit increase in commodity costs 
+        leads to $1/unit higher downstream prices. Pass-through appears incomplete in percentages 
+        due to a gap between prices and costs. This pass-through behavior, as well 
+        as other evidence on firm gross margins, operating margins, and entry rates, contrasts 
+        with workhorse models that feature fixed, multiplicative markups. An implication 
+        of complete pass-through in levels is that rising commodity costs lead to higher inflation 
+        rates for low-margin products in a category, though absolute price changes 
+        are similar across products. This generates cyclical inflation inequality. From 2020–2023, 
+        we estimate that this pass-through behavior is responsible for two-thirds of the 
+        gap in food-at-home inflation rates experienced by low- and high-income households.
 
     - fedvol:
       title: >-
