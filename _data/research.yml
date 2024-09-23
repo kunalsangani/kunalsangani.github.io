@@ -4,7 +4,6 @@
     - income_markups:
       title: >-
         Markups Across the Income Distribution: Measurement and Implications
-      jobmarket: True
       links:
         - paper:
           name: Full Text
