@@ -1,39 +1,29 @@
 - working-papers:
   section_name: Academic Papers
   items:
-    - income_markups:
-      title: >-
-        Markups Across the Income Distribution: Measurement and Implications
+    - quotas:
+      title: Quotas in General Equilibrium 
+      coauthors: David Baqaee
       links:
         - paper:
           name: Full Text
-          href: https://kunalsangani.com/files/income_markups_live.pdf
-        - ssrn:
-          name: SSRN
-          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
-        - slides:
-          name: Slides
-          href: https://kunalsangani.com/files/slides/income_markups_slides_live.pdf
-      coverage:
-        - marginalrevolution:
-          name: Marginal Revolution
-          href: https://marginalrevolution.com/marginalrevolution/2022/06/rich-people-pay-higher-mark-ups.html
-      # status: New Draft Coming Soon!
+          href: https://kunalsangani.com/files/Nonlinear_Aggregation_live.pdf
       abstract: >-
-        We examine the relationship between customer income and firm markups using data on household 
-        transactions and wholesale costs. Doubling a household’s income 
-        is associated with a 2–3 percent increase in retail markups paid. This elasticity of 
-        markups to household income is two times larger than previous estimates that compare 
-        prices paid for identical products alone. We estimate that doubling the income 
-        of all households in an economy leads to an 8–15 percent increase in the aggregate 
-        markup due to spillovers across households. We develop a macroeconomic model 
-        with consumer search that can account for these facts. Consistent with the model’s 
-        predictions, we document that retail markups across cities rise with both per-capita 
-        income and inequality. Through the lens of the model, changes in the income distribution 
-        since 1950 account for a 11pp rise in retail markups, with 25 percent of the increase 
-        due to growing income dispersion. This increase consists of both within-firm markup 
-        increases and a reallocation of sales to high-markup firms, which occurs without any 
-        change to the nature of firm production or competition.
+        We analyze economies with quotas and other quantity-based distortions. We show 
+        that any feasible, distorted allocation of resources can be implemented as the competitive 
+        equilibrium of an economy with quotas. Unlike economies with wedges, 
+        economies with quotas are constrained efficient and thus satisfy macro-envelope conditions. 
+        This means that the effects of changes in technologies, distortions, or policies 
+        can be expressed in terms of a small set of sufficient statistics. We provide a non-parametric 
+        and nonlinear characterization of the effects of quota and productivity 
+        changes on aggregate output. We also calculate the costs of misallocation due to quotas. 
+        These costs are expressed in terms of the price elasticities of an inverse demand
+        system capturing how quota prices respond to changes in quota levels. We illustrate our results using several examples: 
+        we estimate efficiency gains from increasing the cap on H-1B visas, relaxing zoning restrictions on single-family housing in American
+        cities, removing capital controls in Argentina, phasing out U.S. quotas on Chinese
+        clothing and textiles, and eliminating the taxicab medallion system in New York City.
+        Our results offer a flexible method for quantifying the costs of quota distortions and
+        the effects of policy reforms across these settings.
 
     - passthrough:
       title: Pass-Through in Levels and the Incidence of Commodity Shocks 
@@ -69,6 +59,40 @@
         are similar across products. This generates cyclical inflation inequality. From 2020–2023, 
         we estimate that this pass-through behavior is responsible for two-thirds of the 
         gap in food-at-home inflation rates experienced by low- and high-income households.
+
+    - income_markups:
+      title: >-
+        Markups Across the Income Distribution: Measurement and Implications
+      links:
+        - paper:
+          name: Full Text
+          href: https://kunalsangani.com/files/income_markups_live.pdf
+        - ssrn:
+          name: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092068
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/slides/income_markups_slides_live.pdf
+      coverage:
+        - marginalrevolution:
+          name: Marginal Revolution
+          href: https://marginalrevolution.com/marginalrevolution/2022/06/rich-people-pay-higher-mark-ups.html
+      # status: New Draft Coming Soon!
+      abstract: >-
+        We examine the relationship between customer income and firm markups using data on household 
+        transactions and wholesale costs. Doubling a household’s income 
+        is associated with a 2–3 percent increase in retail markups paid. This elasticity of 
+        markups to household income is two times larger than previous estimates that compare 
+        prices paid for identical products alone. We estimate that doubling the income 
+        of all households in an economy leads to an 8–15 percent increase in the aggregate 
+        markup due to spillovers across households. We develop a macroeconomic model 
+        with consumer search that can account for these facts. Consistent with the model’s 
+        predictions, we document that retail markups across cities rise with both per-capita 
+        income and inequality. Through the lens of the model, changes in the income distribution 
+        since 1950 account for a 11pp rise in retail markups, with 25 percent of the increase 
+        due to growing income dispersion. This increase consists of both within-firm markup 
+        increases and a reallocation of sales to high-markup firms, which occurs without any 
+        change to the nature of firm production or competition.
 
     - fedvol:
       title: >-
