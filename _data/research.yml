@@ -7,7 +7,7 @@
       links:
         - paper:
           name: Full Text
-          href: https://kunalsangani.com/files/Nonlinear_Aggregation_live.pdf
+          href: https://kunalsangani.com/files/quotas_live.pdf
       abstract: >-
         We analyze economies with quotas and other quantity-based distortions. We show 
         that any feasible, distorted allocation of resources can be implemented as the competitive 
@@ -154,7 +154,7 @@
     - darwinian:
       title: The Darwinian Returns to Scale
       coauthors: David Rezza Baqaee and Emmanuel Farhi
-      status: Review of Economic Studies, 2024
+      status: "Review of Economic Studies, 91 (3) 2024: 1373-1405"
       links:
         - paper:
           name: Full Text
@@ -188,7 +188,7 @@
     - supply_side:
       title: The Supply-Side Effects of Monetary Policy
       coauthors: David Rezza Baqaee and Emmanuel Farhi
-      status: Journal of Political Economy, 2024
+      status: "Journal of Political Economy, 132 (4) 2024: 1065-1112"
       links:
         - paper:
           name: Full Text
