@@ -8,6 +8,9 @@
         - paper:
           name: Full Text
           href: https://kunalsangani.com/files/quotas_live.pdf
+        - nber:
+          name: NBER
+          href: https://www.nber.org/papers/w33695
       abstract: >-
         We analyze economies with quotas and other quantity-based distortions. We show 
         that any feasible, distorted allocation of resources can be implemented as the competitive 
@@ -302,28 +305,28 @@
         in these settings. This paper discusses the various risks and 
         describes mitigation techniques. 
 
-    - honors:
-      title: A Model of Firm Formality and Tax Evasion
-      status: (Undergraduate Thesis)
-      links:
-        - paper:
-          name: Full Text
-          href: https://kunalsangani.com/files/honorsthesis_live.pdf
-        - stanford:
-          name: Stanford Digital Repository
-          href: https://purl.stanford.edu/cp747fr3982
-      abstract: >-
-        Rampant informality in developing economies proves to be a 
-        major obstacle to public revenue collection, limiting investment 
-        in crucial public infrastructure. The model presented in this 
-        paper sheds light on inter-firm mechanisms that motivate firms 
-        to either transact formally or transact informally and evade 
-        taxes. The formulation allows us to predict comparative statics 
-        on a variety of parameters, including the effective tax rate, 
-        the likelihood of audit, the penalties levered against firms 
-        caught transacting informally, and the distribution of firm sizes 
-        in the economy. Empirical support for each of these predictions 
-        is discussed. In particular, the model provides theoretical 
-        underpinnings for predicting the effect of multinational entry and 
-        trade liberalization on the size of the informal sector.
+    # - honors:
+    #   title: A Model of Firm Formality and Tax Evasion
+    #   status: (Undergraduate Thesis)
+    #   links:
+    #     - paper:
+    #       name: Full Text
+    #       href: https://kunalsangani.com/files/honorsthesis_live.pdf
+    #     - stanford:
+    #       name: Stanford Digital Repository
+    #       href: https://purl.stanford.edu/cp747fr3982
+    #   abstract: >-
+    #     Rampant informality in developing economies proves to be a 
+    #     major obstacle to public revenue collection, limiting investment 
+    #     in crucial public infrastructure. The model presented in this 
+    #     paper sheds light on inter-firm mechanisms that motivate firms 
+    #     to either transact formally or transact informally and evade 
+    #     taxes. The formulation allows us to predict comparative statics 
+    #     on a variety of parameters, including the effective tax rate, 
+    #     the likelihood of audit, the penalties levered against firms 
+    #     caught transacting informally, and the distribution of firm sizes 
+    #     in the economy. Empirical support for each of these predictions 
+    #     is discussed. In particular, the model provides theoretical 
+    #     underpinnings for predicting the effect of multinational entry and 
+    #     trade liberalization on the size of the informal sector.
 
