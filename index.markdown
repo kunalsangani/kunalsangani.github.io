@@ -12,8 +12,6 @@ order: 1
 
 ![Kunal Sangani headshot](/assets/images/kunalsangani_headshot_cropped.jpeg){:class='kunal'}
 
-I am a macroeconomist working on inflation, aggregate productivity, and firm behavior. 
-
-I am currently a postdoc at the Stanford GSB, and will join the Northwestern Economics department as an Assistant Professor in July 2025.
+I am a macroeconomist working on inflation, aggregate productivity, and firm behavior. I joined Northwestern's Department of Economics as an Assistant Professor in 2025. 
 
 I received a BA in Economics from Stanford in 2016 and Ph.D. in Business Economics in 2024 from Harvard. Previously, I worked at a payments startup in San Francisco and the Boston Consulting Group.
