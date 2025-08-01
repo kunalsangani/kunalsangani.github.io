@@ -29,7 +29,8 @@
         the effects of policy reforms across these settings.
 
     - passthrough:
-      title: Complete Pass-Through in Levels 
+      title: Complete Pass-Through in Levels
+      status: R&R, Quarterly Journal of Economics 
       links:
         - paper:
           name: Full Text
@@ -87,6 +88,7 @@
     - income_markups:
       title: >-
         Markups Across the Income Distribution: Measurement and Implications
+      status: R&R, AEJ:Macro
       links:
         - paper:
           name: Full Text
