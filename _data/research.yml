@@ -59,7 +59,7 @@
       links:
         - paper:
           name: Full Text
-          href: https://kunalsangani.com/files/unequal_incidence_live.pdf
+          href: https://kunalsangani.com/files/unequal_incidence_wp_live.pdf
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4574233
@@ -74,16 +74,21 @@
           name: Macro Roundup
           href: https://www.edwardconard.com/macro-roundup/as-prices-rise-lower-income-households-are-disproportionately-impacted-as-they-generally-buy-products-with-lower-prices-and-margins-which-are-more-sensitive-to-inflationary-episodes-ksangani8/
       abstract: >-
-        We document a new, within-category source of fluctuations in inflation inequality. 
-        When the cost of upstream inputs rise, products within a category tend to have similar absolute price increases. 
-        However, identical absolute price increases appear as higher inflation rates for low-price products, 
-        resulting in excess inflation at the low end ("cheapflation"). Since low-income households tend to consume products with lower prices, 
-        inflation rates faced by low-income households are disproportionately sensitive to upstream costs. 
-        Using data on food-at-home purchases, we show that this mechanism generates cycles in food-at-home inflation 
-        inequality and excessive volatility in inflation rates for low-income households relative to high-income households. 
-        This channel parsimoniously accounts for the surge in cheapflation and inflation inequality from 2020--2023. 
-        We provide evidence that this mechanism applies to other consumption categories beyond food-at-home, suggesting 
-        substantial cyclical fluctuations in inflation inequality that are not captured in existing statistics.  
+        We document a new source of fluctuations in inflation inequality. When the cost 
+        of upstream inputs rises, varieties within a product category tend to have similar 
+        absolute price increases. However, the same absolute price increase constitutes a larger
+        percentage change for low-price products, resulting in excess inflation at the low end ("cheapflation"). 
+        Since low-income households tend to buy lower-priced varieties, the
+        inflation rates they face are disproportionately sensitive to upstream costs. Using data
+        on food-at-home purchases, we show that this mechanism generates cycles in inflation
+        inequality and excessive volatility in inflation for low-income households relative to
+        high-income households. This channel parsimoniously accounts for observed fluctuations 
+        in inflation inequality over time, including surges in cheapflation and inflation
+        inequality during both the Great Recession and the 2021–2023 post-pandemic inflation. 
+        Official statistics mask these within-category differences in inflation and thus 
+        understate the differences in inflation experienced by low- and high-income households 
+        by 70–90 percent. We provide evidence that this mechanism applies to a range
+        of consumption categories beyond food at home.
 
     - income_markups:
       title: >-
