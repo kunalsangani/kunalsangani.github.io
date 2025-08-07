@@ -65,9 +65,6 @@
         - voxeu:
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
-        - slides:
-          name: Slides
-          href: https://kunalsangani.com/files/slides/complete_passthrough_slides_live.pdf
       coverage:
         - c0:
           name: Macro Roundup
