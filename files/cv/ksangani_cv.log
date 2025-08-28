@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 AUG 2025 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 AUG 2025 13:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -396,20 +396,20 @@ Package rerunfilecheck Info: File `ksangani_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9820 strings out of 473190
- 152592 string characters out of 5715801
- 574909 words of memory out of 5000000
- 32934 multiletter control sequences out of 15000+600000
+ 9819 strings out of 473190
+ 152577 string characters out of 5715801
+ 571164 words of memory out of 5000000
+ 32933 multiletter control sequences out of 15000+600000
  578752 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,704b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,706b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ksangani_cv.pdf (3 pages, 108909 bytes).
+Output written on ksangani_cv.pdf (3 pages, 108890 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
