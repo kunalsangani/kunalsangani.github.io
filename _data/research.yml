@@ -41,6 +41,9 @@
         - voxeu:
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
+        - voxeu:
+          name: Earlier draft with inflation inequality results
+          href: https://kunalsangani.com/files/complete_passthrough_v20241019.pdf
       abstract: >-
         Empirical studies find that the pass-through of input cost changes to prices is incomplete: 
         a 10 percent increase in costs causes downstream prices to rise less than 10 percent, even at long horizons. 
