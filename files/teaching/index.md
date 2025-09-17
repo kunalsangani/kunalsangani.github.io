@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Teaching Slides
 permalink: /files/teaching/
+nav_exclude: true
+hidden: true
+exclude: true
 ---
 
 <h1>Teaching Slides</h1>
