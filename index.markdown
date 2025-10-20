@@ -14,6 +14,6 @@ order: 1
 
 I am a macroeconomist working on inflation, aggregate productivity, and firm behavior. I joined Northwestern's Department of Economics as an Assistant Professor in 2025. 
 
-I received a BA in Economics from Stanford in 2016 and Ph.D. in Business Economics in 2024 from Harvard. Previously, I worked at a payments startup in San Francisco and the Boston Consulting Group.
+I received a BA in Economics from Stanford in 2016 and Ph.D. in Business Economics from Harvard in 2024. Previously, I worked at a payments startup in San Francisco and the Boston Consulting Group.
 
 **[Office hour sign-ups (only for Northwestern graduate students and students in my classes).](https://calendly.com/exj0684-ads)** 
