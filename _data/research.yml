@@ -336,6 +336,38 @@
         in these settings. This paper discusses the various risks and 
         describes mitigation techniques. 
 
+  - discussions:
+    section_name: Discussions
+    items:
+      - chen_etal:
+        title: 'Granular Markups and Inflation Surge: The Role of Managerial Incentives'
+        status: Chen, Salomao, Sharma, and Wang (2025)
+        links:
+          -link:
+            name: Discussion
+            href: https://kunalsangani.com/files/discussions/chen_etal.pdf
+      - herreno_etal:
+        title: 'How Steep is the Phillips Curve in Developing Economies? A Sufficient Statistics Approach and Estimates for India'
+        status: Herreno, Pinardon-Touati, and Thie (2025)
+        links:
+          -link:
+            name: Discussion
+            href: https://kunalsangani.com/files/discussions/herreno_etal.pdf
+      - chen_etal:
+        title: 'Trade Shocks in Distorted Economies: Evidence from Firm-Level Import Data'
+        status: Adao, Fernandes, Hsieh, and Quintero (2025)
+        links:
+          -link:
+            name: Discussion
+            href: https://kunalsangani.com/files/discussions/adao_etal.pdf
+      - chen_etal:
+        title: 'Pricing Inequality'
+        status: Mongey and Waugh (2025)
+        links:
+          -link:
+            name: Discussion
+            href: https://kunalsangani.com/files/discussions/mongey_waugh.pdf
+
     # - honors:
     #   title: A Model of Firm Formality and Tax Evasion
     #   status: (Undergraduate Thesis)
