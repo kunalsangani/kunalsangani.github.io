@@ -230,6 +230,9 @@
         - nber:
           name: NBER
           href: https://www.nber.org/papers/w28345
+        - erratum:
+          name: Erratum
+          href: https://kunalsangani.com/files/Monetary_erratum_20251216.pdf
         - voxeu:
           name: VoxEU Summary
           href: https://voxeu.org/article/monetary-policy-and-productivity-new-transmission-channel
