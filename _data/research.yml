@@ -165,6 +165,9 @@
         - voxeu:
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
+        - paper:
+          name: Oct 24 2024 version
+          href: https://kunalsangani.com/files/NarainSangani_FedVol_20241024.pdf
       coverage:
         - c0:
           name: Wall Street Journal
