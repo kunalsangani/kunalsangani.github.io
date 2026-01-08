@@ -154,7 +154,7 @@
       title: >-
         The Market Impact of Fed Communications: The Role of the Press Conference
       coauthors: Namrata Narain
-      status: Accepted, International Journal of Central Banking
+      status: "International Journal of Central Banking, 22 (1) 2026: 313–389"
       links:
         - paper:
           name: Full Text
@@ -166,8 +166,8 @@
           name: VoxEU Summary
           href: https://cepr.org/voxeu/columns/market-impact-fed-press-conference
         - paper:
-          name: Oct 24 2024 version
-          href: https://kunalsangani.com/files/NarainSangani_FedVol_20241024.pdf
+          name: Corrigendum
+          href: https://kunalsangani.com/files/NarainSangani_Corrigendum.pdf
       coverage:
         - c0:
           name: Wall Street Journal
