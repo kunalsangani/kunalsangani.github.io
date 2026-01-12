@@ -75,11 +75,12 @@
         Complete pass-through in levels contrasts with workhorse macroeconomic models that feature homothetic demand systems. 
         We identify an alternative class of demand systems that yields pass-through in levels and highlight four implications.
         First, measuring pass-through in percentages can lead to spurious evidence of asymmetry and size-dependence. 
-        Second, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data 
+        Second, pass-through in levels leads to systematic fluctuations in relative price and markup dispersion
+        that are not associated with changes in allocative efficiency.
+        Third, pass-through in levels can explain dynamics of industry gross margins, operating profits, and entry in the data 
         that are at odds with workhorse  models. 
-        Third, demand systems that generate pass-through in levels can explain different pass-through rates for labor costs relative to other inputs. 
-        Finally, incorporating pass-through in levels into an input-output model of the U.S. economy can reconcile the low 
-        volatility of consumer price inflation with microeconomic estimates of markups. 
+        Finally, incorporating pass-through in levels into an input-output model of the U.S. economy 
+        better matches the volatility of consumer price inflation and the response of inflation to identified shocks. 
 
     # - passthrough:
     #   title: Pass-Through in Levels and the Unequal Incidence of Commodity Shocks 
