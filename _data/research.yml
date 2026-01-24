@@ -368,6 +368,14 @@
 - discussions:
   section_name: Discussions
   items:
+    - alviarez_etal:
+      title: 'Concentration and Markups in International Trade'
+      status: Alviarez, Fioretti, Kikkawa, and Morlacco (2026)
+      links:
+        - link:
+          name: Discussion
+          href: https://kunalsangani.com/files/discussions/alviarez_etal.pdf
+
     - chen_etal:
       title: 'Granular Markups and Inflation Surge: The Role of Managerial Incentives'
       status: Chen, Salomao, Sharma, and Wang (2025)
