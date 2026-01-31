@@ -3,7 +3,10 @@
   items:
     - cheapflation:
       title: Cheapflation Cycles 
-      status: Draft available soon!
+      links:
+        - paper:
+          name: Full Text
+          href: https://kunalsangani.com/files/unequal_incidence_live.pdf
       abstract: >-
         We document a new source of fluctuations in inflation inequality. When the cost 
         of upstream inputs rises, varieties within a product category tend to have similar absolute 
