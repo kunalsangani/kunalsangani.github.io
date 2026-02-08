@@ -38,9 +38,3 @@ order: 2
 **White House Council of Economic Advisers**: Research intern, Washington, D.C., 2016
 
 **Google**: Associate Product Management (APM) intern, Mountain View, 2016
-
-## Teaching
-
-Teaching Assistant to Larry Summers and Robert Lawrence, The Political Economy of Globalization, Harvard
-
-Teaching Assistant to Paul Brest, Problem Solving and Decision-Making for Social Change, Stanford Law School

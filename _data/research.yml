@@ -7,6 +7,12 @@
         - paper:
           name: Full Text
           href: https://kunalsangani.com/files/unequal_incidence_live.pdf
+        - ssrn:
+          name: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6157408
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/slides/unequal_incidence_pres_live.pdf
       abstract: >-
         We document a new source of fluctuations in inflation inequality. When the cost 
         of upstream inputs rises, varieties within a product category tend to have similar absolute 
