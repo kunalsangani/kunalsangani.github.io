@@ -139,6 +139,9 @@
         - slides:
           name: Slides
           href: https://kunalsangani.com/files/slides/income_markups_slides_live.pdf
+        - data:
+          name: Retail Markup Data
+          href: https://kunalsangani.com/files/data/supplementary_retail_markup_data.xlsx
       coverage:
         - marginalrevolution:
           name: Marginal Revolution
