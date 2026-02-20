@@ -10,6 +10,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6157408
+        - voxeu:
+          name: VoxEU Summary
+          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
         - slides:
           name: Slides
           href: https://kunalsangani.com/files/slides/unequal_incidence_pres_live.pdf
@@ -69,10 +72,7 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5282624
-        - voxeu:
-          name: VoxEU Summary
-          href: https://cepr.org/voxeu/columns/evidence-and-explanation-recent-surge-inflation-inequality
-        - voxeu:
+        - inequality_draft:
           name: Earlier draft with inflation inequality results
           href: https://kunalsangani.com/files/complete_passthrough_v20241019.pdf
       abstract: >-
