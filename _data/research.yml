@@ -72,6 +72,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5282624
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/slides/complete_passthrough_slides_live.pdf
         - inequality_draft:
           name: Earlier draft with inflation inequality results
           href: https://kunalsangani.com/files/complete_passthrough_v20241019.pdf
