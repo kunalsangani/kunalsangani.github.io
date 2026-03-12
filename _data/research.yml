@@ -383,6 +383,14 @@
 - discussions:
   section_name: Discussions
   items:
+    - cavallo_etal:
+      title: 'The Price Impact of Canadian Retaliatory Tariffs'
+      status: Cavallo, Kostyshyna, Kryvtsov, and Vieyra (2026)
+      links:
+        - link:
+          name: Discussion
+          href: https://kunalsangani.com/files/discussions/cavallo_etal.pdf
+
     - alviarez_etal:
       title: 'Concentration and Markups in International Trade'
       status: Alviarez, Fioretti, Kikkawa, and Morlacco (2026)
