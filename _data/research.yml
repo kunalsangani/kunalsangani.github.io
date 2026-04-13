@@ -9,6 +9,9 @@
         - paper:
           name: Full Text
           href: https://kunalsangani.com/files/fifo_pricing_live.pdf
+        - ssrn:
+          name: SSRN
+          href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570478
       abstract: >-
         When costs change, firms often report waiting to update prices until inventory acquired at old prices is exhausted. 
         This behavior is at odds with standard models, which treat historical purchase costs as sunk and predict that desired 
@@ -18,8 +21,8 @@
         based on realized cash flows are observable and contractible. The model integrates several puzzles about pricing: prices 
         incorporate historical input costs and fixed costs, but respond weakly to demand shocks, replacement costs, and anticipated future costs. 
         Accounting cost pricing means that cost fluctuations take time to propagate along supply chains, as firms work through materials 
-        and inventories purchased at pre-shock prices. Price dynamics resemble canonical sticky-price models, but anticipation of cost increases can further delay
-        —rather than accelerate—pass-through due to forward buying. In a quantitative input–output model, accounting cost pricing can 
+        and inventories purchased at pre-shock prices. Price dynamics resemble canonical sticky-price models, but anticipation of cost increases can further delay—rather 
+        than accelerate—pass-through due to forward buying. In a quantitative input–output model, accounting cost pricing can 
         generate substantial lags in the effect of shocks on consumer prices.
     
     - cheapflation:
