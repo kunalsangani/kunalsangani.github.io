@@ -11,6 +11,9 @@
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570478
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/slides/fifo_pricing_slides_live.pdf
       abstract: >-
         When costs change, firms often report waiting to update prices until inventory acquired at old prices is exhausted. 
         This behavior is at odds with standard models, which treat historical purchase costs as sunk and predict that desired 
