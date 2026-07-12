@@ -1,6 +1,26 @@
 - working-papers:
   section_name: Academic Papers
   items:
+    - pretrends:
+      title: "Pre-Trends Ahead of Monetary Policy Surprises: Recovering the Response of Corporate Investment"
+      coauthors: Antoine Hubert de Fraisse, Peter Maxted, and David Sraer
+      links:
+        - paper:
+          name: Full Text
+          href: https://kunalsangani.com/files/pretrends_live.pdf
+      abstract: >-
+        How should high-frequency monetary policy surprises be used when the outcome of interest is only observed at a 
+        lower frequency? We first document a business-cycle endogeneity problem that arises when monetary policy surprises 
+        are aggregated to monthly or quarterly frequencies—surprise policy easings (resp. tightenings) tend to occur amid 
+        broader easing (resp. tightening) cycles. These low-frequency trends in pre-event Treasury yields are not reliably 
+        removed by standard controls without also weakening the relevance of the remaining policy variation. Motivated by this 
+        evidence, we next develop an alternative Q-theory-based approach for estimating the corporate investment response 
+        to monetary policy. Our approach combines high-frequency identification of firms' valuation responses to policy 
+        surprises with low-frequency firm-level investment-Q sensitivities. Our baseline estimate is: a one-unit monetary 
+        tightening, normalized to a one percentage point increase in the one-year Treasury yield, reduces the annual 
+        tangible investment of non-financial, non-utility public firms by 0.38% of GDP, with 24% of this effect driven by a 
+        novel firm-heterogeneity channel.
+    
     - fifo:
       title: Pricing Off Accounting Costs
       coauthors: Michel Gutmann

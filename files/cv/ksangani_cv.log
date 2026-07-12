@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  17 JUN 2026 10:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 JUL 2026 14:40
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -390,8 +390,8 @@ Package rerunfilecheck Info: File `ksangani_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9817 strings out of 473190
- 152566 string characters out of 5715801
+ 9818 strings out of 473190
+ 152577 string characters out of 5715801
  572122 words of memory out of 5000000
  32933 multiletter control sequences out of 15000+600000
  577296 words of font info for 75 fonts, out of 8000000 for 9000
@@ -403,10 +403,10 @@ ocal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ksangani_cv.pdf (3 pages, 103526 bytes).
+Output written on ksangani_cv.pdf (3 pages, 103571 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
