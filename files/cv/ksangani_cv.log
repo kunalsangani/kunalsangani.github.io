@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 JUL 2026 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  15 JUL 2026 22:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -194,6 +194,73 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@count@id=\count285
 \enitdp@description=\count286
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2025/02/09 v3.10 Displaying the values of LaTeX counters (NT,
+VB,NE)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count287
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count288
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen155
+)
+\c@padzeroesN=\count289
+\fc@tmpcatcode=\count290
+\@DT@modctr=\count291
+\@ordinalctr=\count292
+\@orgargctr=\count293
+\@strctr=\count294
+\@tmpstrctr=\count295
+\@DT@loopN=\count296
+\@DT@X=\count297
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count298
+\@month=\count299
+\@year=\count300
+\c@HOUR=\count301
+\c@HOURXII=\count302
+\c@MINUTE=\count303
+\c@TOHOUR=\count304
+\c@TOMINUTE=\count305
+\c@SECOND=\count306
+\currenthour=\count307
+\currentminute=\count308
+\currentsecond=\count309
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count310
+\dayofyear=\count311
+\dayofweek=\count312
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks23
+\dt@b=\toks24
+)
 (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
@@ -223,7 +290,7 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
@@ -239,37 +306,37 @@ LaTeX Warning: Command \underline  has changed.
 
 )
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-75.
+76.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
+\l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box53
 )
 (./ksangani_cv.aux)
 \openout1 = `ksangani_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-Package hyperref Info: Link coloring ON on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+Package hyperref Info: Link coloring ON on input line 76.
  (./ksangani_cv.out) (./ksangani_cv.out)
 \@outlinefile=\write3
 \openout3 = `ksangani_cv.out'.
@@ -309,51 +376,54 @@ Package hyperref Info: Link coloring ON on input line 75.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen155
+\scratchcounter=\count314
+\scratchdimen=\dimen156
 \scratchbox=\box54
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen156
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen157
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks26
 )
-\big@size=\dimen157
+\big@size=\dimen158
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-89.
+90.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-89.
+90.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-89.
+90.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-89.
+90.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-89.
+90.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
@@ -363,13 +433,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (8.19014pt too wide) in paragraph at lines 159--160
+Overfull \hbox (8.19014pt too wide) in paragraph at lines 160--161
 \OT1/pplj/m/n/10 Sum-mer In-sti-tute In-equal-ity and Macroe-co-nomics, St. Lou
 is Fed-eral Re-serve (Vis-it-ing Scholar),
  []
 
 
-Overfull \hbox (8.46353pt too wide) in paragraph at lines 161--162
+Overfull \hbox (8.46353pt too wide) in paragraph at lines 162--163
 \OT1/pplj/m/n/10 School of Busi-ness, UCLA, North-west-ern, Uni-ver-sity of Mic
 hi-gan, Min-neapo-lis Fed, Columbia,
  []
@@ -377,7 +447,7 @@ hi-gan, Min-neapo-lis Fed, Columbia,
 
 
 LaTeX Font Info:    Font shape `OT1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `OT1/pplj/m/it' tried instead on input line 172.
+(Font)              Font shape `OT1/pplj/m/it' tried instead on input line 173.
 
 [2]
 
@@ -390,20 +460,20 @@ Package rerunfilecheck Info: File `ksangani_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9818 strings out of 473190
- 152577 string characters out of 5715801
- 572122 words of memory out of 5000000
- 32933 multiletter control sequences out of 15000+600000
+ 10835 strings out of 473190
+ 169271 string characters out of 5715801
+ 602216 words of memory out of 5000000
+ 33913 multiletter control sequences out of 15000+600000
  577296 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,765b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,1024b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/l
 ocal/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2025/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ksangani_cv.pdf (3 pages, 103571 bytes).
+Output written on ksangani_cv.pdf (3 pages, 103596 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

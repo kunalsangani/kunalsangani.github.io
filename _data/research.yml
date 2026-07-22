@@ -53,6 +53,9 @@
         - paper:
           name: Full Text
           href: https://kunalsangani.com/files/unequal_incidence_live.pdf
+        - nber:
+          name: NBER
+          href: https://www.nber.org/papers/w35235
         - ssrn:
           name: SSRN
           href: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6157408
