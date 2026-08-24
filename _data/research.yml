@@ -65,6 +65,16 @@
         - slides:
           name: Slides
           href: https://kunalsangani.com/files/slides/unequal_incidence_pres_live.pdf
+      coverage:
+        - nberdigest:
+          name: NBER Digest
+          href: https://www.nber.org/digest/202608/when-input-prices-rise-cheaper-varieties-see-higher-inflation
+        - marginalrevolution:
+          name: Marginal Revolution
+          href: https://marginalrevolution.com/marginalrevolution/2026/05/are-we-undermeasuring-inflation-for-lower-earners.html
+        - investopedia:
+          name: Investopedia
+          href: https://www.investopedia.com/how-cheapflation-makes-inflation-harder-on-lower-income-households-11984954
       status: "R&R, Review of Economic Studies"
       abstract: >-
         We document a new source of fluctuations in inflation inequality. When the cost 
@@ -125,9 +135,6 @@
         - slides:
           name: Slides
           href: https://kunalsangani.com/files/slides/complete_passthrough_slides_live.pdf
-        - inequality_draft:
-          name: Earlier draft with inflation inequality results
-          href: https://kunalsangani.com/files/complete_passthrough_v20241019.pdf
       abstract: >-
         Empirical studies find that the pass-through of input cost changes to prices is incomplete: 
         a 10 percent increase in costs causes downstream prices to rise less than 10 percent, even at long horizons. 
