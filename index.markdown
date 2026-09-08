@@ -16,4 +16,4 @@ I am a macroeconomist working on inflation, aggregate productivity, and firm beh
 
 I received my PhD in Business Economics from Harvard in 2024 and a BA from Stanford in 2016. Previously, I worked at a payments startup in San Francisco and at the Boston Consulting Group.
 
-**[Office hour sign-ups (only for Northwestern graduate students and students in my classes).](https://calendly.com/exj0684-ads)** 
+**[Office hour sign-ups (only for Columbia/Northwestern graduate students).](https://calendly.com/exj0684-ads)** 
