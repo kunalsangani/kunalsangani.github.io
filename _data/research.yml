@@ -34,6 +34,9 @@
         - paper:
           name: Full Text
           href: https://kunalsangani.com/files/pretrends_live.pdf
+        - slides:
+          name: Slides
+          href: https://kunalsangani.com/files/slides/pretrends_slides.pdf
       abstract: >-
         How should high-frequency monetary policy surprises be used when the outcome of interest is only observed at a 
         lower frequency? We first document a business-cycle endogeneity problem that arises when monetary policy surprises 
