@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.24)  19 OCT 2026 11:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.24)  2 NOV 2026 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -420,13 +420,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (8.19014pt too wide) in paragraph at lines 160--161
+Overfull \hbox (8.19014pt too wide) in paragraph at lines 161--162
 \OT1/pplj/m/n/10 Sum-mer In-sti-tute In-equal-ity and Macroe-co-nomics, St. Lou
 is Fed-eral Re-serve (Vis-it-ing Scholar),
  []
 
 
-Overfull \hbox (8.46353pt too wide) in paragraph at lines 162--163
+Overfull \hbox (8.46353pt too wide) in paragraph at lines 163--164
 \OT1/pplj/m/n/10 School of Busi-ness, UCLA, North-west-ern, Uni-ver-sity of Mic
 hi-gan, Min-neapo-lis Fed, Columbia,
  []
@@ -443,23 +443,23 @@ Package rerunfilecheck Info: File `ksangani_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10826 strings out of 467071
- 169553 string characters out of 5407762
+ 10827 strings out of 467071
+ 169560 string characters out of 5407762
  625317 words of memory out of 5000000
  40018 multiletter control sequences out of 15000+600000
  646180 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,7n,84p,1024b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,7n,84p,1024b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/l
 ocal/texlive/2026/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/te
 xlive/2026/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/
 2026/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2026/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ksangani_cv.pdf (3 pages, 103882 bytes).
+Output written on ksangani_cv.pdf (3 pages, 104046 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
